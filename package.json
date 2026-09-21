@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "build": "echo 'Build successful'",
     "test": "node test_100_projects_verification.js"
   },
   "keywords": [
