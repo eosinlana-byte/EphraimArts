@@ -1,0 +1,2065 @@
+{
+  "totalCount": 100,
+  "counts": {
+    "storybooks": 30,
+    "covers": 30,
+    "trailers": 15,
+    "comics": 25
+  },
+  "covers": [
+    {
+      "id": "cov-chr-01",
+      "title": "The Starlit Shepherd\u2019s Meadow",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/offering_cover_design.webp",
+      "format": "Hardcover Casewrap & Dust Jacket",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.38\" (32\u201348 pages)",
+      "finish": "Linen texture cloth, embossed title lettering, spot matte & starlight gold foil",
+      "paper": "Archival Uncoated 140gsm Cotton",
+      "synopsis": "A tender nighttime heirloom cover featuring the Good Shepherd keeping watch under twilight stars. Gold foil constellations reflect starlight across the front casewrap.",
+      "isbn": "978-1-987654-01-2",
+      "client": "Heritage Faith Publishing"
+    },
+    {
+      "id": "cov-chr-02",
+      "title": "Beside Still Waters: A Nursery Scripture Heirloom",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_psalm23_waters.webp",
+      "format": "Square Keepsake Hardcover",
+      "trimSize": "10\" \u00d7 10\" Square",
+      "spineWidth": "0.42\" (40 pages)",
+      "finish": "Natural unbleached linen spine, blind debossed title, matte watercolor dust jacket",
+      "paper": "Premium 160gsm Warm White Felt",
+      "synopsis": "A soothing nursery treasury cover depicting tranquil streams, grazing sheep, and wildflowers with hand-lettered verses from Psalm 23.",
+      "isbn": "978-1-987654-02-9",
+      "client": "Grace & Truth Kids"
+    },
+    {
+      "id": "cov-chr-03",
+      "title": "Noah\u2019s Rainbow Voyage",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_noahs_ark.webp",
+      "format": "Jacketed Deluxe Picture Book",
+      "trimSize": "8.5\" \u00d7 11\" Landscape",
+      "spineWidth": "0.45\" (48 pages)",
+      "finish": "Spot gloss over rainbow arc, matte anti-scratch laminate, embossed animal silhouettes",
+      "paper": "150gsm Silk Coated Art Paper",
+      "synopsis": "An epic yet gentle panoramic cover capturing the cedar ark resting upon Ararat as morning sunlight breaks through receding storm clouds.",
+      "isbn": "978-1-987654-03-6",
+      "client": "Covenant Ark Press"
+    },
+    {
+      "id": "cov-chr-04",
+      "title": "Five Smooth Stones: The Boy Shepherd of Judea",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_david_goliath.webp",
+      "format": "Early Reader Hardcover",
+      "trimSize": "8\" \u00d7 10\" Portrait",
+      "spineWidth": "0.35\" (36 pages)",
+      "finish": "Textured buckram cloth, bronze metallic foil stamp, deckle edge jacket flap",
+      "paper": "130gsm Archival Cream",
+      "synopsis": "Young David kneeling beside the sunlit brook of Elah, selecting polished river stones with faith in his eyes. A warm earth-toned palette.",
+      "isbn": "978-1-987654-04-3",
+      "client": "Brave Faith Classics"
+    },
+    {
+      "id": "cov-chr-05",
+      "title": "The First Sunrise of Eden: Creation Wonders",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_creation_stars.webp",
+      "format": "Oversized Heirloom Edition",
+      "trimSize": "9\" \u00d7 12\" Portrait",
+      "spineWidth": "0.50\" (56 pages)",
+      "finish": "Pearlized soft-touch coating with holographic foil highlights on the celestial canopy",
+      "paper": "170gsm Heavyweight Artstock",
+      "synopsis": "A breathtaking cosmic watercolor depiction of Day One through Day Six, blending swirling nebulae with lush Eden flora and joyful woodland creatures.",
+      "isbn": "978-1-987654-05-0",
+      "client": "Eden Light Books"
+    },
+    {
+      "id": "cov-chr-06",
+      "title": "He Whispers in the Wind: Elijah\u2019s Gentle Song",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_jesus_calms_storm.webp",
+      "format": "Heirloom Linen Hardcover",
+      "trimSize": "8.5\" \u00d7 8.5\" Square",
+      "spineWidth": "0.36\" (32 pages)",
+      "finish": "Matte soft-touch jacket with blind debossed mountain ridges and rose-gold script",
+      "paper": "140gsm Munken Pure Rough",
+      "synopsis": "Illustrating God's still, small voice across the quiet desert plateau after the mighty earthquake and fire have passed.",
+      "isbn": "978-1-987654-06-7",
+      "client": "Still Waters Publishing"
+    },
+    {
+      "id": "cov-chr-07",
+      "title": "A Bethlehem Star Over the Hillside Manger",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/story_spread_nativity.webp",
+      "format": "Holiday Keepsake Picture Book",
+      "trimSize": "9\" \u00d7 11\" Portrait",
+      "spineWidth": "0.40\" (40 pages)",
+      "finish": "Deep indigo cloth, radiant gold foil star burst, hand-tipped full-color artplate",
+      "paper": "150gsm Velvet Matt",
+      "synopsis": "The holy night viewed from the shepherd hills overlooking Bethlehem, bathed in luminous cobalt and warm lantern amber.",
+      "isbn": "978-1-987654-07-4",
+      "client": "Christmas Light Press"
+    },
+    {
+      "id": "cov-chr-08",
+      "title": "The Mustard Seed That Moved Mountains",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_mustard_seed.webp",
+      "format": "Children\u2019s Parable Hardcover",
+      "trimSize": "8\" \u00d7 10\" Portrait",
+      "spineWidth": "0.34\" (32 pages)",
+      "finish": "Embossed seed capsule with spot gloss sapling leaves and warm ochre textured stock",
+      "paper": "140gsm Uncoated Off-White",
+      "synopsis": "A tiny seed cupped in a child's hands transforming into a mighty branching tree where golden finches find restful nesting boughs.",
+      "isbn": "978-1-987654-08-1",
+      "client": "Sprout Faith Books"
+    },
+    {
+      "id": "cov-chr-09",
+      "title": "Wings of Dawn: A Child\u2019s Psalm Treasury",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/project_seeds_of_faith.webp",
+      "format": "Padded Board Book & Hardcover",
+      "trimSize": "7.5\" \u00d7 7.5\" Square",
+      "spineWidth": "0.55\" (28 board pages)",
+      "finish": "Padded foam cover, rounded safety corners, iridescent foil lettering",
+      "paper": "350gsm Heavy Board with Satin Varnish",
+      "synopsis": "Selected verses from Psalms translated into tender watercolor animal and family vignettes for morning devotions with toddlers.",
+      "isbn": "978-1-987654-09-8",
+      "client": "Little Lambs Bible Studio"
+    },
+    {
+      "id": "cov-chr-10",
+      "title": "Walking on Waves: Peter\u2019s Stepping Stones",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "image": "web_images/gallery_jonah_whale.webp",
+      "format": "Standard Picture Book",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.38\" (36 pages)",
+      "finish": "Scuff-resistant matte laminate with high-gloss water ripple highlights",
+      "paper": "150gsm Coated Silk",
+      "synopsis": "The Galilean night storm where Jesus reaches down a glowing hand to lift Peter above the churning teal waves.",
+      "isbn": "978-1-987654-10-4",
+      "client": "Anchor of Hope Media"
+    },
+    {
+      "id": "cov-bed-01",
+      "title": "The Cloud Boat Chronicles",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/cover_cloud_boat.webp",
+      "format": "Deluxe Bedtime Picture Book",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.40\" (36\u201348 pages)",
+      "finish": "Midnight navy buckram cloth, silver starlight foil embossing, soft-touch dust jacket",
+      "paper": "150gsm Archival Cream Matte",
+      "synopsis": "A whimsical wooden skiff sailing across pink cotton-candy clouds as the moon turns into a cozy lantern for sleepy dreamers.",
+      "isbn": "978-1-987654-11-1",
+      "client": "Starlight Dream Press"
+    },
+    {
+      "id": "cov-bed-02",
+      "title": "Where the Fireflies Go to Sleep",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/gallery_bedtime_adventure.webp",
+      "format": "Soft Velvet-Touch Picture Book",
+      "trimSize": "9\" \u00d7 9\" Square",
+      "spineWidth": "0.35\" (32 pages)",
+      "finish": "Velvet laminate with phosphorescent glow-in-the-dark firefly lanterns",
+      "paper": "140gsm Woodfree Uncoated",
+      "synopsis": "A twilight forest where small glowing beetles tuck into acorn cups and dandelion puffs while the forest floor hums a sleepy tune.",
+      "isbn": "978-1-987654-12-8",
+      "client": "Moonbeam Kids"
+    },
+    {
+      "id": "cov-bed-03",
+      "title": "The Moonlit Meadow Lullaby",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/project_luna_forest.webp",
+      "format": "Wide Landscape Picture Book",
+      "trimSize": "11\" \u00d7 8.5\" Landscape",
+      "spineWidth": "0.38\" (36 pages)",
+      "finish": "Pearlized linen casewrap, debossed silver moon crescent, matte printed endpapers",
+      "paper": "160gsm Warm Artstock",
+      "synopsis": "Baby bunnies, sleepy deer fawns, and field mice curling under clover blossoms under the watchful silver crescent moon.",
+      "isbn": "978-1-987654-13-5",
+      "client": "Pillow Song Books"
+    },
+    {
+      "id": "cov-bed-04",
+      "title": "Barnaby Owl\u2019s Midnight Tea",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/gallery_little_bear_moon.webp",
+      "format": "Square Clothbound Keepsake",
+      "trimSize": "8.5\" \u00d7 8.5\" Square",
+      "spineWidth": "0.35\" (32 pages)",
+      "finish": "Forest green woven cloth, copper foil stamped owl glasses and steaming teapot",
+      "paper": "135gsm Munken Lynx",
+      "synopsis": "A wise little spectacles-wearing screech owl brewing chamomile tea in a hollow oak branch for sleepless forest neighbors.",
+      "isbn": "978-1-987654-14-2",
+      "client": "Whistling Acorn Press"
+    },
+    {
+      "id": "cov-bed-05",
+      "title": "The Little Cloud Who Wanted to Hug a Star",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/trailer_cloud_boat.webp",
+      "format": "Padded Board Picture Book",
+      "trimSize": "8\" \u00d7 8\" Square",
+      "spineWidth": "0.48\" (24 board pages)",
+      "finish": "Cushioned cover, silver holographic foil accents, non-toxic satin lamination",
+      "paper": "300gsm Duplex Board",
+      "synopsis": "Puff the wispy cumulus drifts higher and higher into the evening stratosphere until a friendly wishing star tucks him in.",
+      "isbn": "978-1-987654-15-9",
+      "client": "Sweet Slumber Co."
+    },
+    {
+      "id": "cov-bed-06",
+      "title": "Pippin\u2019s Pajama Voyage Across the Seas",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/project_flying_book.webp",
+      "format": "Adventure Bedtime Story",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.42\" (40 pages)",
+      "finish": "Matte soft-touch with raised spot UV on ocean waves and flannel pajama stripes",
+      "paper": "150gsm Silk Coated",
+      "synopsis": "A boy whose four-poster bed sprouts sails and oars at bedtime, charting courses through calm lavender waters to dreamland.",
+      "isbn": "978-1-987654-16-6",
+      "client": "Voyager Kids Press"
+    },
+    {
+      "id": "cov-bed-07",
+      "title": "The Secret Treehouse at Starlight Cove",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/project_sleepy_dragon.webp",
+      "format": "Early Chapter Book Hardcover",
+      "trimSize": "8\" \u00d7 10\" Portrait",
+      "spineWidth": "0.46\" (64 pages)",
+      "finish": "Natural woodgrain textured paper wrap, gold foil lantern glow, dark brown cloth spine",
+      "paper": "120gsm FSC Certified Recycled",
+      "synopsis": "Two adventurous siblings who turn their backyard rope-ladder treehouse into an observatory for tracking shooting stars and firefly fleets.",
+      "isbn": "978-1-987654-17-3",
+      "client": "Lantern Post Publishing"
+    },
+    {
+      "id": "cov-bed-08",
+      "title": "Goodnight, Whispering Forest",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/project_little_light.webp",
+      "format": "Classic Picture Book",
+      "trimSize": "10\" \u00d7 10\" Square",
+      "spineWidth": "0.36\" (32 pages)",
+      "finish": "Embossed birch bark texture with matte varnish and silver foil night moths",
+      "paper": "150gsm Archival Natural",
+      "synopsis": "Saying goodnight to each creature of the great Northern woods: the brook trout, the moose calf, the red squirrel, and the sleepy bear.",
+      "isbn": "978-1-987654-18-0",
+      "client": "Timberland Press"
+    },
+    {
+      "id": "cov-bed-09",
+      "title": "The Starlight Express Through the Velvet Hills",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/project_last_star_keeper.webp",
+      "format": "Illustrated Bedtime Story",
+      "trimSize": "8.5\" \u00d7 11\" Landscape",
+      "spineWidth": "0.40\" (36 pages)",
+      "finish": "Midnight blue jacket with metallic gold train tracks looping across rolling purple hills",
+      "paper": "160gsm Silk Finish",
+      "synopsis": "A cozy steam engine that runs on stardust and dreams, picking up drowsy passengers from rooftop chimneys and delivering them to Slumber Station.",
+      "isbn": "978-1-987654-19-7",
+      "client": "Dreamline Railways"
+    },
+    {
+      "id": "cov-bed-10",
+      "title": "The Blanket Fort That Reached the Moon",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "image": "web_images/cover_clockwork_dragon.webp",
+      "format": "Whimsical Picture Book",
+      "trimSize": "9\" \u00d7 9\" Square",
+      "spineWidth": "0.38\" (36 pages)",
+      "finish": "Quilted fabric texture print, yellow foil moonlight beam, stitched cloth headband",
+      "paper": "145gsm Cotton Matte",
+      "synopsis": "Cushions, clothespins, and patchwork quilts constructed so high that the ceiling opens up into a starry galactic campout.",
+      "isbn": "978-1-987654-20-3",
+      "client": "Quilt & Star Stories"
+    },
+    {
+      "id": "cov-fai-01",
+      "title": "The Clockwork Dragon & Little Bramble",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/cover_clockwork_dragon.webp",
+      "format": "Collector\u2019s Fairy Tale Hardcover",
+      "trimSize": "9\" \u00d7 12\" Portrait",
+      "spineWidth": "0.48\" (52 pages)",
+      "finish": "Forest green buckram, burnished copper & rose-gold foil gear filigree, gilded page edges",
+      "paper": "170gsm Heavyweight Archival Matte",
+      "synopsis": "An intricate clockwork mechanical dragon built by a reclusive toy maker, befriended by a brave village orphan armed only with a key.",
+      "isbn": "978-1-987654-21-0",
+      "client": "Enchanted Gear Press"
+    },
+    {
+      "id": "cov-fai-02",
+      "title": "Tales from the Lantern Oak",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/gallery_fairytale_fantasy.webp",
+      "format": "Leatherette Keepsake Anthology",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.65\" (96 pages)",
+      "finish": "Burgundy faux-leather, gold foil tree bough filigree, satin ribbon bookmark",
+      "paper": "130gsm Antique Book Laid",
+      "synopsis": "An ancient oak in the deep woods where glowing lanterns hang from branches, each containing an untamed bedtime fairytale.",
+      "isbn": "978-1-987654-22-7",
+      "client": "StoryTree Publishing"
+    },
+    {
+      "id": "cov-fai-03",
+      "title": "The Girl Who Befriended the Cloud Drake",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_girl_dragons.webp",
+      "format": "Middle-Grade Fantasy Hardcover",
+      "trimSize": "8\" \u00d7 10\" Portrait",
+      "spineWidth": "0.52\" (72 pages)",
+      "finish": "Matte soft touch, iridescent dragon scale embossing, UV spot highlights",
+      "paper": "140gsm Cream Laid",
+      "synopsis": "High above the snow line, a shepherd girl plays a cedar flute that tames a gentle azure sky dragon from breathing blizzards.",
+      "isbn": "978-1-987654-23-4",
+      "client": "High Peak Books"
+    },
+    {
+      "id": "cov-fai-04",
+      "title": "The Forgotten Library of the North Wind",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_kingdom_woods.webp",
+      "format": "Deluxe Hardcover with Slipcase",
+      "trimSize": "9\" \u00d7 11.5\" Portrait",
+      "spineWidth": "0.55\" (64 pages)",
+      "finish": "Antique linen casewrap, silver and icy blue foil stamping, custom debossed slipcase",
+      "paper": "160gsm Munken Kristall",
+      "synopsis": "A library carved inside an Arctic glacier where the cold keeps ancient whispered stories preserved in frozen crystals.",
+      "isbn": "978-1-987654-24-1",
+      "client": "Borealis Mythic Studio"
+    },
+    {
+      "id": "cov-fai-05",
+      "title": "The Glass Castle on the Whispering Crag",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_flying_book.webp",
+      "format": "Fantasy Picture Book",
+      "trimSize": "8.5\" \u00d7 11\" Portrait",
+      "spineWidth": "0.40\" (40 pages)",
+      "finish": "Holographic prismatic foil on crystal spires, scuff-free matte background laminate",
+      "paper": "150gsm Art Coated",
+      "synopsis": "A fortress of blown glass built on ocean cliffs, where light refractions predict the coming seasons and tides.",
+      "isbn": "978-1-987654-25-8",
+      "client": "Prism Crown Press"
+    },
+    {
+      "id": "cov-fai-06",
+      "title": "The Song of the Silver Fox",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_luna_forest.webp",
+      "format": "Nordic Fairy Tale Hardcover",
+      "trimSize": "8.5\" \u00d7 8.5\" Square",
+      "spineWidth": "0.38\" (36 pages)",
+      "finish": "Velvet matte jacket with silver hot-foil fur accents and embossed snowdrifts",
+      "paper": "140gsm Arctic Volume White",
+      "synopsis": "In the frozen tundra, a silver fox with starry eyes guides a lost sister through aurora-lit ice caverns back to her hearth.",
+      "isbn": "978-1-987654-26-5",
+      "client": "Nordic Tales Co."
+    },
+    {
+      "id": "cov-fai-07",
+      "title": "The Feather of the Star Phoenix",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/gallery_david_goliath.webp",
+      "format": "Epic Fairytale Picture Book",
+      "trimSize": "9\" \u00d7 12\" Portrait",
+      "spineWidth": "0.45\" (44 pages)",
+      "finish": "Brilliant gold and vermilion metallic foil feather embellishments on deep midnight background",
+      "paper": "165gsm Satin Art",
+      "synopsis": "A fallen golden feather that keeps whatever village it rests in permanently warm throughout seven years of winter.",
+      "isbn": "978-1-987654-27-2",
+      "client": "Sunbird Mythos"
+    },
+    {
+      "id": "cov-fai-08",
+      "title": "The Mermaid\u2019s Sunlit Lagoon",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_mermaids_secret.webp",
+      "format": "Aquatic Fantasy Hardcover",
+      "trimSize": "10\" \u00d7 10\" Square",
+      "spineWidth": "0.42\" (40 pages)",
+      "finish": "Sea-glass turquoise cloth, embossed pearl seashell and shimmering emerald foil",
+      "paper": "150gsm Velvet Touch",
+      "synopsis": "Coral reefs illuminated by sun rays filtering through crystal-clear tide pools where friendly sea turtles converse with sirens.",
+      "isbn": "978-1-987654-28-9",
+      "client": "Triton Song Books"
+    },
+    {
+      "id": "cov-fai-09",
+      "title": "The Key to the Whispering Gate",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/about_ephraim_studio.webp",
+      "format": "Mystery Fairy Tale",
+      "trimSize": "8\" \u00d7 10\" Portrait",
+      "spineWidth": "0.36\" (32 pages)",
+      "finish": "Archival woven cloth, brass foil antique key, blind embossed wrought-iron ivy gate",
+      "paper": "135gsm Off-White Laid",
+      "synopsis": "An ivy-covered iron gate in an overgrown garden wall that only unlocks when told a secret riddle by a pure-hearted child.",
+      "isbn": "978-1-987654-29-6",
+      "client": "Secret Bower Books"
+    },
+    {
+      "id": "cov-fai-10",
+      "title": "The Last Guardian of the Elder Grove",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "image": "web_images/project_last_star_keeper.webp",
+      "format": "Heirloom Mythic Edition",
+      "trimSize": "9\" \u00d7 12\" Portrait",
+      "spineWidth": "0.50\" (52 pages)",
+      "finish": "Moss green bookcloth, dark bronze foil stamped treant antlers, gilded top edge",
+      "paper": "170gsm Heavyweight Cotton Stock",
+      "synopsis": "A gentle colossal moss golem who watches over the oldest saplings on earth, teaching a young woodcarver the language of leaves.",
+      "isbn": "978-1-987654-30-2",
+      "client": "Elderwood Mythic Press"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tra-chr-01",
+      "title": "The Little Light: Cinematic Launch Preview",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "format": "16:9 Cinema & 9:16 Vertical Reels",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Watercolor Motion",
+      "logline": "A gentle light placed by the Creator guides a little child through fearful dusk into lasting peace.",
+      "coverImage": "web_images/project_little_light.webp",
+      "soundtrack": "Acoustic nylon harp, warm orchestral strings, soft woodwinds & chime bells",
+      "stats": {
+        "views": "24.8K",
+        "completionRate": "94%",
+        "shares": "1.8K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Across the rolling hills of dusk, evening shadows begin to gather...",
+          "motion": "Slow crane down through purple twilight mist onto wildflowers",
+          "soundCue": "Gentle acoustic harp arpeggio begins"
+        },
+        {
+          "timestamp": "0:08",
+          "caption": "A small child holds a tiny lantern, wondering if hope can conquer the dimness.",
+          "motion": "Parallax multi-plane zoom into child's warm, hopeful eyes",
+          "soundCue": "Soft solo cello theme enters with emotional warmth"
+        },
+        {
+          "timestamp": "0:18",
+          "caption": "In the quiet of prayer, the little light blazes into golden warmth, guiding a lost fawn home.",
+          "motion": "Golden light particles bloom across the screen, illuminating the forest trail",
+          "soundCue": "Full orchestral swell with soaring French horns and celestial choir"
+        },
+        {
+          "timestamp": "0:26",
+          "caption": "The Little Light \u2014 An Illustrated Children\u2019s Story of Faith, Hope, and Love.",
+          "motion": "Clean title reveal over the book cover with starlight shimmer",
+          "soundCue": "Tender unresolved harp chime that lingers into silence"
+        }
+      ]
+    },
+    {
+      "id": "tra-chr-02",
+      "title": "Noah\u2019s Ark: The Great Rainbow Dawn",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "duration": "0:35",
+      "durationSeconds": 35,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Watercolor Motion",
+      "logline": "After forty days of storm and sea, the olive branch returns and the covenant rainbow blazes across the sky.",
+      "coverImage": "web_images/gallery_noahs_ark.webp",
+      "soundtrack": "Orchestral ocean swells, soaring Celtic whistle, soft rain percussion & dove wings",
+      "stats": {
+        "views": "19.2K",
+        "completionRate": "91%",
+        "shares": "1.4K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Dark ocean crests crash under churning indigo clouds as thunder rolls in the distance.",
+          "motion": "Dynamic 3D camera push through rolling watercolor waves",
+          "soundCue": "Low timpani rumble and dramatic cello tremolo"
+        },
+        {
+          "timestamp": "0:10",
+          "caption": "Within the cedar ark, gentle animal families wait quietly under the warm lantern glow.",
+          "motion": "Interior dolly shot past resting giraffes and sleeping lion cubs",
+          "soundCue": "Tender flute melody bringing stillness to the tempest"
+        },
+        {
+          "timestamp": "0:22",
+          "caption": "Morning light breaks through! A white dove circles the mountaintop bearing green olive leaves.",
+          "motion": "Sunbeams break through cloud gutters in volumetric watercolor shafts",
+          "soundCue": "Triumphant French horn fanfares and soaring orchestral strings"
+        },
+        {
+          "timestamp": "0:30",
+          "caption": "Noah\u2019s Ark \u2014 God\u2019s Everlasting Promise to Every Living Soul.",
+          "motion": "Full panorama reveal of the radiant multi-hued covenant rainbow",
+          "soundCue": "Majestic brass and choir cadence"
+        }
+      ]
+    },
+    {
+      "id": "tra-chr-03",
+      "title": "David\u2019s Song by the Brook",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "duration": "0:28",
+      "durationSeconds": 28,
+      "format": "16:9 Cinema & 9:16 Shorts",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Watercolor Motion",
+      "logline": "Armed with only a shepherd's sling and unwavering trust in God, young David faces the Valley of Elah.",
+      "coverImage": "web_images/gallery_david_goliath.webp",
+      "soundtrack": "Shepherd\u2019s lyre, rhythmic hand drums, soaring oboe & warm acoustic strings",
+      "stats": {
+        "views": "16.5K",
+        "completionRate": "89%",
+        "shares": "980"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "The Judean hills bask in the golden light of late afternoon.",
+          "motion": "Gentle panoramic pan across ancient olive groves and grazing sheep",
+          "soundCue": "Delicate lyre plucking with peaceful wind ambiance"
+        },
+        {
+          "timestamp": "0:08",
+          "caption": "While armies tremble in fear, a young shepherd boy kneels by the clear brook water.",
+          "motion": "Close-up on hands selecting five smooth stones from ripples",
+          "soundCue": "Deep rhythmic frame drum beat enters with resolute tension"
+        },
+        {
+          "timestamp": "0:18",
+          "caption": "\u2019You come with sword and spear, but I come in the name of the Lord!\u2019",
+          "motion": "Dramatic low-angle push in on David standing fearless in the valley",
+          "soundCue": "Powerful orchestral surge with driving percussion"
+        },
+        {
+          "timestamp": "0:24",
+          "caption": "Five Smooth Stones \u2014 The Courage of a Shepherd Boy.",
+          "motion": "Title card shines against sunlit Judean hills",
+          "soundCue": "Triumphant solo horn resolving to quiet harp"
+        }
+      ]
+    },
+    {
+      "id": "tra-chr-04",
+      "title": "The Good Shepherd: Lost Lamb in the Hills",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "duration": "0:32",
+      "durationSeconds": 32,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Watercolor Motion",
+      "logline": "Leaving the ninety-nine safely in the fold, the Good Shepherd traverses rocky brambles to rescue one lost lamb.",
+      "coverImage": "web_images/hero_good_shepherd.webp",
+      "soundtrack": "Warm pastorale woodwinds, English horn, nylon acoustic guitar & soft bell chimes",
+      "stats": {
+        "views": "21.4K",
+        "completionRate": "93%",
+        "shares": "1.6K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Evening descends on the mountain pastures. Ninety-nine sheep rest peacefully in the pen.",
+          "motion": "Slow tilt down from twilight clouds to warm wooden fold gate",
+          "soundCue": "Peaceful acoustic guitar and warm oboe pastorale"
+        },
+        {
+          "timestamp": "0:09",
+          "caption": "One little lamb is caught in the rocky briar ravine as darkness thickens.",
+          "motion": "Camera glides through jagged stone shadows finding the shivering fleece",
+          "soundCue": "Plaintive solo violin motif full of longing"
+        },
+        {
+          "timestamp": "0:19",
+          "caption": "A loving staff parts the briars; gentle hands lift the lamb onto strong shoulders.",
+          "motion": "Warm golden halo lighting illuminates the Shepherd\u2019s compassionate smile",
+          "soundCue": "Warm string orchestra swell in D major with joyful woodwinds"
+        },
+        {
+          "timestamp": "0:27",
+          "caption": "The Shepherd\u2019s Heart \u2014 You Are Never Forgotten.",
+          "motion": "Shepherd carrying lamb against sunset sky into the welcoming home fold",
+          "soundCue": "Harmonious chime resolution and lingering cello note"
+        }
+      ]
+    },
+    {
+      "id": "tra-chr-05",
+      "title": "The Star Over Bethlehem: Children\u2019s Nativity",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "duration": "0:38",
+      "durationSeconds": 38,
+      "format": "16:9 Cinema & Holiday Promo",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Watercolor Motion",
+      "logline": "Under the radiant guiding star of Bethlehem, heaven touches earth in a humble hillside manger.",
+      "coverImage": "web_images/story_spread_nativity.webp",
+      "soundtrack": "Celesta, orchestral tubular bells, children\u2019s choir vocalise & classical strings",
+      "stats": {
+        "views": "31.2K",
+        "completionRate": "96%",
+        "shares": "2.8K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "A solitary silver star blooms above the slumbering Judean hills.",
+          "motion": "Slow zoom in on the great starlight ray casting silver light across cedar trees",
+          "soundCue": "Celesta and chiming glass bells playing a lullaby melody"
+        },
+        {
+          "timestamp": "0:10",
+          "caption": "Shepherds look up in awe as the night sky fills with singing angels.",
+          "motion": "Panoramic camera sweep up into celestial golden wings and starlight mist",
+          "soundCue": "Ethereal choir swell with rich orchestral warmth"
+        },
+        {
+          "timestamp": "0:23",
+          "caption": "In a peaceful manger lined with warm straw, love is born for all the world.",
+          "motion": "Dolly in on Mary and Joseph gazing with adoration upon baby Jesus",
+          "soundCue": "Quiet acoustic strings and tender music box chime"
+        },
+        {
+          "timestamp": "0:32",
+          "caption": "A Bethlehem Star Over the Manger \u2014 An Heirloom Christmas Storybook.",
+          "motion": "Golden foil title reveal over the illuminated picture book cover",
+          "soundCue": "Full holiday chime cadence with fading celestial chorus"
+        }
+      ]
+    },
+    {
+      "id": "tra-bed-01",
+      "title": "The Cloud Boat Chronicles: Sleepy Skies Trailer",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "duration": "0:28",
+      "durationSeconds": 28,
+      "format": "16:9 Cinema & 9:16 Shorts",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "A gentle wooden skiff sails through pastel evening clouds, gathering sweet dreams for children everywhere.",
+      "coverImage": "web_images/cover_cloud_boat.webp",
+      "soundtrack": "Lullaby music box, rainmaker percussion, soft flute & harp glissandos",
+      "stats": {
+        "views": "22.6K",
+        "completionRate": "92%",
+        "shares": "1.5K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "When the nursery lamp clicks off, the sky outside turns cotton-candy pink.",
+          "motion": "Window sill transition as camera glides up into billowy clouds",
+          "soundCue": "Music box chime with gentle rain shaker accompaniment"
+        },
+        {
+          "timestamp": "0:07",
+          "caption": "Milo unmoors his little wooden cloud boat and catches the evening breeze.",
+          "motion": "Boat sails glide through lavender cloud valleys with soft ripples",
+          "soundCue": "Acoustic nylon harp arpeggio rising into peaceful flute"
+        },
+        {
+          "timestamp": "0:16",
+          "caption": "The silver crescent moon dips low, offering a lantern to light the drowsy way.",
+          "motion": "Moon smile radiates warm cream light over the smiling dreamer",
+          "soundCue": "Warm cello and glockenspiel harmony"
+        },
+        {
+          "timestamp": "0:24",
+          "caption": "The Cloud Boat Chronicles \u2014 Sail Away to Sweet Slumber.",
+          "motion": "Title shimmer above boat drifting peacefully into starry starlight",
+          "soundCue": "Fading single bell chime and soft breath of wind"
+        }
+      ]
+    },
+    {
+      "id": "tra-bed-02",
+      "title": "Luna and the Moonlit Forest: Firefly Flight",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "A young girl steps into the whispering night woods guided by thousand firefly lanterns to find Barnaby Owl.",
+      "coverImage": "web_images/project_luna_forest.webp",
+      "soundtrack": "Acoustic fingerpicked guitar, woodsy marimba, cricket ambiance & soft strings",
+      "stats": {
+        "views": "17.9K",
+        "completionRate": "90%",
+        "shares": "1.1K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Deep inside the whispering pine forest, moss paths glow with moonbeams.",
+          "motion": "Slow forward tracking shot along mossy roots under ancient trees",
+          "soundCue": "Subtle night cricket ambiance and acoustic guitar intro"
+        },
+        {
+          "timestamp": "0:08",
+          "caption": "Luna follows a shimmering golden beetle deeper into the mossy glade.",
+          "motion": "Macro depth-of-field focus pull onto floating fireflies",
+          "soundCue": "Woodsy marimba notes bubbling like a clean forest spring"
+        },
+        {
+          "timestamp": "0:18",
+          "caption": "High in the grandfather oak, friendly Barnaby the Owl winks a bedtime greeting.",
+          "motion": "Camera arcs up around the oak bough to reveal owl with spectacles",
+          "soundCue": "Warm cello hug and soft flute trill"
+        },
+        {
+          "timestamp": "0:25",
+          "caption": "Luna and the Moonlit Forest \u2014 A Cozy Woodland Bedtime Journey.",
+          "motion": "Book cover reveal framed by glowing watercolor fireflies",
+          "soundCue": "Gentle guitar strum and settling woodland sigh"
+        }
+      ]
+    },
+    {
+      "id": "tra-bed-03",
+      "title": "The Sleepy Dragon\u2019s Bedtime Song",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "duration": "0:26",
+      "durationSeconds": 26,
+      "format": "16:9 Cinema & 9:16 Reels",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "Even giant mountain dragons get heavy eyelids when the stars begin to twinkle over their cozy caverns.",
+      "coverImage": "web_images/project_sleepy_dragon.webp",
+      "soundtrack": "Warm bassoon, cozy hearth crackles, acoustic cello & lullaby chimes",
+      "stats": {
+        "views": "28.4K",
+        "completionRate": "95%",
+        "shares": "2.4K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Sunset paints the dragon\u2019s mountain peaks in shades of strawberry peach.",
+          "motion": "Panoramic mountain ridge crane down into deep velvet cavern",
+          "soundCue": "Warm bassoon melody with soft acoustic guitar chords"
+        },
+        {
+          "timestamp": "0:07",
+          "caption": "Barnaby the little dragon tries to stay awake, but his tail is already curling up.",
+          "motion": "Cute dragon yawning with small golden smoke puff turning into a star",
+          "soundCue": "Gentle comic bassoon slide and soft glockenspiel note"
+        },
+        {
+          "timestamp": "0:15",
+          "caption": "A patchwork blanket of heather and pine needles tucks the giant paws in tight.",
+          "motion": "Camera pulls back as dragon closes large emerald eyes in sweet peace",
+          "soundCue": "Lush cello lullaby theme wrapping like a warm blanket"
+        },
+        {
+          "timestamp": "0:22",
+          "caption": "The Sleepy Dragon Who Loved Lullabies \u2014 Goodnight, Little Dragon.",
+          "motion": "Title floats over sleeping dragon breathing quiet golden warmth",
+          "soundCue": "Soft chime and cozy fading ember sound"
+        }
+      ]
+    },
+    {
+      "id": "tra-bed-04",
+      "title": "Where the Stars Land to Rest",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "duration": "0:32",
+      "durationSeconds": 32,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "Ever wonder where tired shooting stars go when morning arrives? Discover the secret pillow valley in the clouds.",
+      "coverImage": "web_images/gallery_creation_stars.webp",
+      "soundtrack": "Ambient crystal bowl chimes, lush string quartet & celestial harp ripples",
+      "stats": {
+        "views": "15.3K",
+        "completionRate": "88%",
+        "shares": "920"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "High above the sleepy world, shooting stars streak across the deep indigo night.",
+          "motion": "Fast parabolic streaks slowing down as they approach fluffy cloud dunes",
+          "soundCue": "Glissando chimes and ethereal ambient pad"
+        },
+        {
+          "timestamp": "0:10",
+          "caption": "They tumble softly into piles of downy cumulus clouds, dimming their bright lanterns.",
+          "motion": "Gentle bouncy landing into marshmallow clouds with golden dust blooms",
+          "soundCue": "Soft pizzicato strings and playful bell sparkles"
+        },
+        {
+          "timestamp": "0:20",
+          "caption": "Here in the Starlight Nursery, the stars sleep so they can shine for you again tomorrow.",
+          "motion": "Dolly across rows of sleeping star faces tucked in lilac blankets",
+          "soundCue": "Warm string quartet playing a slow Brahms lullaby cadence"
+        },
+        {
+          "timestamp": "0:28",
+          "caption": "Where the Stars Land to Rest \u2014 A Luminous Bedtime Picture Book.",
+          "motion": "Glowing book title against midnight clouds and starlight embers",
+          "soundCue": "Unresolved celesta note floating into silence"
+        }
+      ]
+    },
+    {
+      "id": "tra-bed-05",
+      "title": "Pippin\u2019s Midnight Dream Voyage",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "duration": "0:29",
+      "durationSeconds": 29,
+      "format": "16:9 Cinema & 9:16 Reels",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "A boy and his teddy bear hoist patchwork sails on their bed, exploring islands made of bedtime stories.",
+      "coverImage": "web_images/project_flying_book.webp",
+      "soundtrack": "Acoustic nylon harp, gentle ocean surf ambiance, accordion & soft strings",
+      "stats": {
+        "views": "19.8K",
+        "completionRate": "91%",
+        "shares": "1.3K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "The floorboards turn to tide pools as midnight strikes on the grandfather clock.",
+          "motion": "Floor ripples with soft watercolor aqua reflections around four-poster bed",
+          "soundCue": "Soft wooden clock tick dissolving into calm ocean surf"
+        },
+        {
+          "timestamp": "0:08",
+          "caption": "Pippin and Teddy unfurl the quilt sails and catch the whisper breeze.",
+          "motion": "Bed gliding through bedroom window into moonlit ocean sky",
+          "soundCue": "Tender accordion and nylon guitar traveling theme"
+        },
+        {
+          "timestamp": "0:17",
+          "caption": "Past Lighthouse Isle and Pillow Reef, the sea sings a quiet melody of home.",
+          "motion": "Friendly watercolor dolphins leap alongside trailing starlight bubbles",
+          "soundCue": "Warm full string swell with soaring flute"
+        },
+        {
+          "timestamp": "0:25",
+          "caption": "Pippin\u2019s Pajama Voyage \u2014 Adventure Awaits in Dreamland.",
+          "motion": "Clean title reveal over the picture book cover with silver ripples",
+          "soundCue": "Gentle ocean wash and resolving harp chime"
+        }
+      ]
+    },
+    {
+      "id": "tra-fai-01",
+      "title": "The Clockwork Dragon: Awakening of the Brass Forest",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "duration": "0:34",
+      "durationSeconds": 34,
+      "format": "16:9 Cinema & 4K Teaser",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "When a lonely orphan turns the forgotten brass key, an ancient mechanical protector awakens to save the realm.",
+      "coverImage": "web_images/cover_clockwork_dragon.webp",
+      "soundtrack": "Orchestral brass, clockwork gear rhythms, Celtic fiddle & soaring cinematic strings",
+      "stats": {
+        "views": "38.6K",
+        "completionRate": "97%",
+        "shares": "3.4K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Deep beneath the cobblestones of Elderberry lies an ancient workshop of gears.",
+          "motion": "Camera tracks through cobwebbed brass cogwheels and antique blueprints",
+          "soundCue": "Rhythmic clockwork ticking and low cello rumble"
+        },
+        {
+          "timestamp": "0:09",
+          "caption": "Little Bramble inserts the carved key into the dragon's heart chamber.",
+          "motion": "Golden key turns; gears begin to spin with brilliant amber sparks",
+          "soundCue": "Mechanical wind-up click followed by rising symphonic brass"
+        },
+        {
+          "timestamp": "0:19",
+          "caption": "With a flap of burnished copper wings, the Clockwork Dragon roars with friendship!",
+          "motion": "Dragon unfurls majestic filigree wings as camera swoops in 360 degrees",
+          "soundCue": "Epic orchestral fanfare with driving Celtic fiddle rhythms"
+        },
+        {
+          "timestamp": "0:28",
+          "caption": "The Clockwork Dragon & Little Bramble \u2014 An Enchanting Steam-Fantasy Fairytale.",
+          "motion": "Gilded title reveal with burning copper gear particle effects",
+          "soundCue": "Massive symphonic orchestral hit and ticking cadence"
+        }
+      ]
+    },
+    {
+      "id": "tra-fai-02",
+      "title": "The Kingdom Beyond the Woods: Secret Portal",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "duration": "0:36",
+      "durationSeconds": 36,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "Follow the ancient map through hollow moss trees into a magical kingdom hidden from mortal eyes.",
+      "coverImage": "web_images/project_kingdom_woods.webp",
+      "soundtrack": "Celtic low whistle, Bodhran drum, lush fantasy orchestra & harp glissandos",
+      "stats": {
+        "views": "26.4K",
+        "completionRate": "93%",
+        "shares": "2.1K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "An ancient parchment map unrolls by lantern light in the dusty castle library.",
+          "motion": "Macro lens pushes across illustrated compass rose and mythical mountain symbols",
+          "soundCue": "Mysterious low whistle melody and gentle paper rustle"
+        },
+        {
+          "timestamp": "0:10",
+          "caption": "Stepping between two twin moss trees, the forest path suddenly dissolves into emerald light.",
+          "motion": "Forward dolly shot through blooming emerald portal ripples",
+          "soundCue": "Bodhran heartbeat drum begins with ethereal fantasy choir"
+        },
+        {
+          "timestamp": "0:21",
+          "caption": "Behold the Crystal Kingdom! Spired castles rise above rivers of living silver.",
+          "motion": "Grand aerial panorama reveal sweeping over crystal towers and flying gryphons",
+          "soundCue": "Full symphonic swell with soaring brass and strings"
+        },
+        {
+          "timestamp": "0:30",
+          "caption": "The Kingdom Beyond the Woods \u2014 The Magic Was Waiting for You.",
+          "motion": "Gold-lettered book title against shimmering castle panorama",
+          "soundCue": "Triumphant Celtic whistle trill and sustained chord"
+        }
+      ]
+    },
+    {
+      "id": "tra-fai-03",
+      "title": "The Mermaid\u2019s Golden Locket",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "duration": "0:30",
+      "durationSeconds": 30,
+      "format": "16:9 Cinema & 9:16 Shorts",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "Beneath emerald waves lies a forgotten locket holding the secret song that can calm any ocean tempest.",
+      "coverImage": "web_images/project_mermaids_secret.webp",
+      "soundtrack": "Harp water glissandos, ethereal siren soprano vocals, glass harmonica & cello",
+      "stats": {
+        "views": "23.1K",
+        "completionRate": "92%",
+        "shares": "1.7K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Sunlight penetrates the turquoise waters of the coral reef in shimmering caustics.",
+          "motion": "Underwater camera descends through schools of iridescent angelfish",
+          "soundCue": "Submerged water ambiance with crystalline harp glissandos"
+        },
+        {
+          "timestamp": "0:08",
+          "caption": "Coralia the mermaid discovers an antique locket half-buried in sea glass.",
+          "motion": "Close-up on delicate webbed fingers lifting the glowing golden pendant",
+          "soundCue": "Ethereal female vocalise hums a hauntingly sweet melody"
+        },
+        {
+          "timestamp": "0:18",
+          "caption": "Opening the clasp releases a melody that turns the stormy surface waters to glassy peace.",
+          "motion": "Camera rockets up from the depths through churning foam into calm sunrise",
+          "soundCue": "Soaring orchestral strings merge with soprano voice in full resolution"
+        },
+        {
+          "timestamp": "0:26",
+          "caption": "The Mermaid\u2019s Secret \u2014 An Aquatic Fairytale of Friendship and Song.",
+          "motion": "Title shines like mother-of-pearl over the picture book cover",
+          "soundCue": "Gentle wave lap and crystalline chime fadeout"
+        }
+      ]
+    },
+    {
+      "id": "tra-fai-04",
+      "title": "The Boy and the Sunbird Phoenix",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "duration": "0:35",
+      "durationSeconds": 35,
+      "format": "16:9 Cinema",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "When eternal winter chills the northern kingdom, a brave boy embarks on a quest to kindle the Phoenix's nest.",
+      "coverImage": "web_images/gallery_david_goliath.webp",
+      "soundtrack": "Dramatic orchestral crescendo, Japanese Taiko & Celtic drums, soaring brass & choir",
+      "stats": {
+        "views": "29.7K",
+        "completionRate": "94%",
+        "shares": "2.5K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "Snowdrifts bury the rooftops of the village under seven years of relentless ice.",
+          "motion": "Gloomy blizzard tracking shot over frozen village chimneys",
+          "soundCue": "Chilling wind howl and somber French horn melody"
+        },
+        {
+          "timestamp": "0:10",
+          "caption": "Eli climbs the jagged Obsidian Crag, guarding the single ember in his iron lantern.",
+          "motion": "Perilous cliff climb with snow particles whipping across the lens",
+          "soundCue": "Driving Taiko drum rhythm with rising tension strings"
+        },
+        {
+          "timestamp": "0:21",
+          "caption": "From the mountain peak, the Sunbird bursts into flame! Warmth returns to the earth!",
+          "motion": "Magnificent golden phoenix spreads wings of fire, melting the ice below",
+          "soundCue": "Explosive orchestral fanfare with triumphant brass and choir"
+        },
+        {
+          "timestamp": "0:30",
+          "caption": "The Boy and the Sunbird Phoenix \u2014 Warmth Will Always Return.",
+          "motion": "Title blazes in gold and ruby over the book cover artwork",
+          "soundCue": "Majestic brass cadence and lingering warm embers"
+        }
+      ]
+    },
+    {
+      "id": "tra-fai-05",
+      "title": "The Last Star Keeper\u2019s Lantern",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "duration": "0:33",
+      "durationSeconds": 33,
+      "format": "16:9 Cinema & 4K Teaser",
+      "resolution": "4K Ultra-HD (3840\u00d72160)",
+      "fps": "24 FPS Cinematic Motion",
+      "logline": "At the edge of the world stands a tower where the keeper polishes stars before sending them into the sky.",
+      "coverImage": "web_images/project_last_star_keeper.webp",
+      "soundtrack": "Cosmic ambient chimes, solo cello, glass harmonica & string octet",
+      "stats": {
+        "views": "21.5K",
+        "completionRate": "91%",
+        "shares": "1.6K"
+      },
+      "scenes": [
+        {
+          "timestamp": "0:00",
+          "caption": "High on the lonely cliff of the North Peak stands the spiraling Star Tower.",
+          "motion": "Spiral camera ascent around illuminated tower windows against aurora borealis",
+          "soundCue": "Ethereal glass harmonica and solo cello lament"
+        },
+        {
+          "timestamp": "0:09",
+          "caption": "Elder Orion dips a tarnished star into a silver basin, polishing away the darkness.",
+          "motion": "Macro shot on star shedding crystal dust, igniting with brilliant silver glow",
+          "soundCue": "High bell chimes and warm string harmony building in wonder"
+        },
+        {
+          "timestamp": "0:19",
+          "caption": "With a joyful breath, he releases the star into the velvet sky, joining the constellations.",
+          "motion": "Camera follows the star shooting into the heavens, weaving into the Big Dipper",
+          "soundCue": "Sweeping emotional string orchestra with soaring woodwind flourish"
+        },
+        {
+          "timestamp": "0:28",
+          "caption": "The Last Star Keeper \u2014 Keep Your Light Shining Bright.",
+          "motion": "Star shimmers onto the front cover of the fairytale book",
+          "soundCue": "Peaceful unresolved celesta chord"
+        }
+      ]
+    }
+  ],
+  "comics": [
+    {
+      "id": "com-chr-01",
+      "title": "Wings of Morning: A Graphic Scripture Journey",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "issue": "Chapter 1: The Call Across the Desert",
+      "panelsCount": 6,
+      "image": "web_images/offering_graphic_novel.webp",
+      "style": "Sequential watercolor panel gutters, hand-lettered speech bubbles, expressive middle-grade pacing",
+      "logline": "Young Caleb journeys across the wilderness, learning that God\u2019s presence guides him even beyond the farthest sea.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Dawn over Beersheba.",
+          "dialogue": "Caleb: 'Father, how far does the Great King's kingdom truly reach?'",
+          "focal": "Wide panel showing sprawling sand dunes bathed in morning rose gold."
+        },
+        {
+          "panelNum": 2,
+          "caption": "The old tent door opens.",
+          "dialogue": "Father: 'If you take the wings of morning and dwell in the uttermost parts of the sea... Even there His hand shall lead you.'",
+          "focal": "Medium shot of wise father placing hand on Caleb's shoulder."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The journey begins.",
+          "dialogue": "Caleb: 'Then I shall fear no shadow on this path.'",
+          "focal": "Caleb tying his leather sandals and hoisting a traveler's pack."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Into the canyon.",
+          "dialogue": "Narrator: 'The desert winds whispered ancient songs of deliverance.'",
+          "focal": "Dramatic overhead panel looking down at the lone boy walking between towering red rock canyon walls."
+        }
+      ]
+    },
+    {
+      "id": "com-chr-02",
+      "title": "The Armor of Light: Children of the King",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "issue": "Issue #1: The Shield of Faith",
+      "panelsCount": 6,
+      "image": "web_images/spreads/spread_graphic_novel.jpg",
+      "style": "Dynamic action comic panels with traditional watercolor washes and bold ink brush lines",
+      "logline": "Maya and Eli discover the spiritual armor granted to royal kingdom messengers to withstand dark doubts.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The Castle of Truth.",
+          "dialogue": "Guardian: 'Take up the shield of faith, with which you can extinguish all the flaming darts of the evil one.'",
+          "focal": "A glowing golden shield inscribed with olive branches handed to young Maya."
+        },
+        {
+          "panelNum": 2,
+          "caption": "The Valley of Shadows.",
+          "dialogue": "Eli: 'Look! The arrows of doubt are flying from the mist!'",
+          "focal": "Dynamic split-panel showing shadowy arrows striking the radiant shield with golden sparks."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Standing firm.",
+          "dialogue": "Maya: 'We stand on truth! Not our own strength, but the King's promise!'",
+          "focal": "Heroic low-angle panel of children standing shoulder-to-shoulder with glowing armor."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The shadows flee.",
+          "dialogue": "Narrator: 'Light does not negotiate with the darkness; it simply shines.'",
+          "focal": "Warm golden burst clearing the valley, revealing a green meadow path ahead."
+        }
+      ]
+    },
+    {
+      "id": "com-chr-03",
+      "title": "The Galilee Chronicles: Early Reader Panel Series",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "issue": "Volume 1: The Fishermen\u2019s Net",
+      "panelsCount": 5,
+      "image": "web_images/gallery_jesus_calms_storm.webp",
+      "style": "Clear line-and-wash panels tailored for early readers, large readable font, friendly character expressions",
+      "logline": "Brothers Simon and Andrew have worked all night with empty nets until a stranger on the shore tells them to cast once more.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Misty morning on Lake Galilee.",
+          "dialogue": "Simon: 'Not a single minnow all night long! My arms are weary.'",
+          "focal": "Simon and Andrew slumping over wooden oars in their fishing skiff."
+        },
+        {
+          "panelNum": 2,
+          "caption": "A voice from the beach.",
+          "dialogue": "Jesus: 'Cast your net on the right side of the boat, and you will find some.'",
+          "focal": "The silhouette of the Teacher standing beside gentle morning surf."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The pull!",
+          "dialogue": "Andrew: 'Simon, hold fast! The nets are breaking with fish!'",
+          "focal": "Action panel: shimmering silver tilapia leaping as the ropes strain under abundance."
+        },
+        {
+          "panelNum": 4,
+          "caption": "On the shore.",
+          "dialogue": "Jesus: 'Follow me, and I will make you fishers of men.'",
+          "focal": "Warm close-up of Jesus extending a welcoming hand to the awe-struck brothers."
+        }
+      ]
+    },
+    {
+      "id": "com-chr-04",
+      "title": "Daniel & the Whispering Lions: A Graphic Devotional",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "issue": "Full Chapter Spread: The Den of Babylon",
+      "panelsCount": 6,
+      "image": "web_images/gallery_david_goliath.webp",
+      "style": "Dramatic chiaroscuro watercolor panel layout with soft amber starlight and deep stone shadows",
+      "logline": "Cast into the pit of hungry beasts, Daniel's steadfast prayer invites an angel of peace into the den.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The heavy stone seals the den.",
+          "dialogue": "King Darius: 'May your God, whom you serve continually, rescue you!'",
+          "focal": "Top panel showing the great stone sealing shut the pit opening above."
+        },
+        {
+          "panelNum": 2,
+          "caption": "In the darkness.",
+          "dialogue": "Daniel: 'Lord, into Thy hands I commit my spirit.'",
+          "focal": "Daniel kneeling quietly on the stone floor with eyes closed in prayer."
+        },
+        {
+          "panelNum": 3,
+          "caption": "A celestial glow.",
+          "dialogue": "Angel: 'Peace be unto you, Daniel. God has shut the lions' mouths.'",
+          "focal": "A radiant white angel gently resting hands upon the manes of two great lions who purr like kittens."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The dawn brings joy.",
+          "dialogue": "Daniel: 'O king, live forever! My God sent His angel and preserved me.'",
+          "focal": "Morning light spilling down as the king peers joyfully into the unharmed den."
+        }
+      ]
+    },
+    {
+      "id": "com-chr-05",
+      "title": "The Good Samaritan: Highway to Jericho",
+      "category": "Christian & Faith",
+      "categoryLabel": "Christian Bible Stories & Faith-based Stories",
+      "issue": "Graphic Parable Edition",
+      "panelsCount": 5,
+      "image": "web_images/hero_good_shepherd.webp",
+      "style": "Sequential panels with warm desert earth tones and expressive emotional gestures",
+      "logline": "A traveler is passed by those who should have helped, until an unlikely neighbor stops to bind his wounds with oil and wine.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The rocky road to Jericho.",
+          "dialogue": "Narrator: 'A certain traveler was robbed and left wounded by the roadside.'",
+          "focal": "Desolate desert highway with the traveler lying in the shadow of boulders."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Passed by.",
+          "dialogue": "Priest: 'I am too busy with temple duties to stop here today...'",
+          "focal": "Split panel showing respectable figures hurrying past on the other side."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The neighbor arrives.",
+          "dialogue": "Samaritan: 'Hold on, brother. I have bandages, clean water, and oil for your wounds.'",
+          "focal": "Compassionate stranger kneeling and pouring soothing oil onto bruised hands."
+        },
+        {
+          "panelNum": 4,
+          "caption": "At the inn.",
+          "dialogue": "Samaritan: 'Take good care of him. Whatever more you spend, I will repay you when I return.'",
+          "focal": "Innkeeper receiving silver coins while the injured traveler rests safely in bed."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-01",
+      "title": "Barnaby & Pip: Night Investigators",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Issue #1: The Case of the Missing Moonbeam",
+      "panelsCount": 6,
+      "image": "web_images/gallery_bedtime_adventure.webp",
+      "style": "Cozy nighttime comic panels with dark violet borders, speech balloons with playful animal font",
+      "logline": "Barnaby the Owl and Pip the Dormouse investigate why the attic moonbeam vanished, discovering a sleepy curtain flutter.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Midnight in the library rafters.",
+          "dialogue": "Pip: 'Barnaby! Emergency! The silver moonbeam on page 42 is completely gone!'",
+          "focal": "Tiny mouse with a magnifying glass waving urgently to an owl with nightcap."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Examining the clues.",
+          "dialogue": "Barnaby: 'Hoo-dini! Notice the trajectory of the dust motes, Watson... er, Pip.'",
+          "focal": "Barnaby inspecting a patch of shadow on an open book."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The culprit revealed.",
+          "dialogue": "Pip: 'Aha! Fluffy the cat was sleeping right on top of the velvet window drape!'",
+          "focal": "Chubby orange tabby curled up on the heavy drape, blocking the moon."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Case closed.",
+          "dialogue": "Barnaby: 'Case solved, Pip. Time for chamomile tea and slumber.'",
+          "focal": "Barnaby and Pip sipping steaming mugs as the moonbeam illuminates their cozy nook."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-02",
+      "title": "The Pillow Fort Explorers",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Chapter 1: Charting the Living Room Sea",
+      "panelsCount": 5,
+      "image": "web_images/cover_clockwork_dragon.webp",
+      "style": "Vibrant watercolor panels with blueprint diagrams and imaginative thought bubbles",
+      "logline": "Armed with couch cushions, broom masts, and flashlight lanterns, two brothers navigate the living room carpet ocean.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Fort construction complete.",
+          "dialogue": "Leo: 'Cushion Bastion is secure. Hoist the flannel blanket flag!'",
+          "focal": "Towering fort of floral sofa cushions held together with oversized clothespins."
+        },
+        {
+          "panelNum": 2,
+          "caption": "The floor is lava!",
+          "dialogue": "Sam: 'Steer clear of the Persian rug strait! The carpet sharks are circling!'",
+          "focal": "Imagination transition: floor turns into turquoise waves with friendly toy sharks."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Flashlight beam.",
+          "dialogue": "Leo: 'Lookout ahead! Lighthouse spotted on the Coffee Table Reef!'",
+          "focal": "Flashlight beam illuminating a glowing salt lamp on the coffee table."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Bedtime call.",
+          "dialogue": "Mom (off-panel): 'All sailors report to berth for storybook hour!'",
+          "focal": "Boys laughing and tucking under quilts inside the cozy cushion cabin."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-03",
+      "title": "Star Hopper: A Little Astronaut\u2019s Bedtime Comic",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Episode 1: The Starlight Nebula",
+      "panelsCount": 6,
+      "image": "web_images/project_last_star_keeper.webp",
+      "style": "Sleek retro-futuristic watercolor comic panels with glowing planetary rings and starlight dust",
+      "logline": "Young Commander Nora captains her cardboard rocket into the cosmic slumber sector to refuel sleepy constellations.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Countdown to bedtime: T-minus 5 minutes.",
+          "dialogue": "Nora: 'Ground control, Star Hopper engines engaged. Pajamas zipped.'",
+          "focal": "Girl in cardboard helmet sitting inside rocket box in her bedroom."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Orbit achieved.",
+          "dialogue": "Computer: 'Welcome to Nebula Pillow 9. Gravity set to zero.'",
+          "focal": "Bed floating among glowing watercolor planets and candy-cane asteroids."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The Sleepy Comet.",
+          "dialogue": "Nora: 'Approaching Comet Lullaby. Dispensing stardust sprinkles.'",
+          "focal": "Shimmering golden comet smiling gently as the ship passes alongside."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Landing in Dreamland.",
+          "dialogue": "Nora: 'Mission accomplished. Initiating sleep mode.'",
+          "focal": "Nora fast asleep under star-patterned duvet with helmet resting on nightstand."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-04",
+      "title": "Campfire Tails: Woodland Animal Adventures",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Chapter 1: The Marshmallow Mystery",
+      "panelsCount": 5,
+      "image": "web_images/gallery_little_bear_moon.webp",
+      "style": "Earthy watercolor palette with warm firelight glows, charming expressive animal characters",
+      "logline": "Cubby the Bear, Bramble the Hedgehog, and Hazel the Squirrel tell bedtime ghost stories around a glowing acorn fire.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Around the warm embers.",
+          "dialogue": "Hazel: 'And they say the Great Pine Monster was ten acorns tall!'",
+          "focal": "Squirrel with wide eyes gesturing dramatically beside flickering twig fire."
+        },
+        {
+          "panelNum": 2,
+          "caption": "A rustle in the ferns.",
+          "dialogue": "Bramble: 'Eep! What was that rustling sound in the blackberry bush?!'",
+          "focal": "Hedgehog curling into a frightened ball with quills poking up."
+        },
+        {
+          "panelNum": 3,
+          "caption": "A friendly face.",
+          "dialogue": "Cubby: 'Relax, Bramble! It's just Old Badger bringing toasted marshmallows!'",
+          "focal": "Gentle grandfather badger emerging with roasted pine-sap treats on twigs."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Cozy ending.",
+          "dialogue": "All: 'Yum! Best campout in the Whispering Woods!'",
+          "focal": "All four animals curled together under a cedar bough fast asleep."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-05",
+      "title": "The Boy Who Built a Rocket to Dreamland",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Sequential Chapter Panels",
+      "panelsCount": 6,
+      "image": "web_images/project_flying_book.webp",
+      "style": "Sequential spreads with blueprint architectural sketches and painterly watercolor backgrounds",
+      "logline": "Tired of regular dreams, Toby constructs a wooden flyer powered by clockwork springs and bedtime lullabies.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The attic workshop.",
+          "dialogue": "Toby: 'Just one more gear on the dream-compass... and presto!'",
+          "focal": "Boy tightening a brass bolt on a whimsical winged flying machine."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Launching through the skylight.",
+          "dialogue": "Toby: 'Hang on, Astro Dog! Next stop: The Cloud Carousel!'",
+          "focal": "Machine swooping through open roof window into starry lavender sky."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Among the clouds.",
+          "dialogue": "Astro Dog: 'Woof!' (Translation: Look at those cotton-candy clouds!)",
+          "focal": "Puppy with goggles sticking head out of cockpit catching cloud mist."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Landing safely.",
+          "dialogue": "Toby: 'Nothing beats sleeping in your own bed after a trip to the stars.'",
+          "focal": "Toby tucked under blankets with model rocket perched on dresser."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-06",
+      "title": "Otter & Owl: Midnight Creek Detectives",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Issue 2: The Firefly Glow Thief",
+      "panelsCount": 5,
+      "image": "web_images/spreads/spread_bedtime.jpg",
+      "style": "Lush aquatic watercolor panels with cool blues, teals, and luminous insect gold",
+      "logline": "Why did the creek path go dark? Oliver the Otter swims upstream to find a beaver who borrowed the fireflies for night reading.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The dark creek crossing.",
+          "dialogue": "Oliver: 'Hoo-boy, Barnaby! The stepping stones are pitch dark tonight!'",
+          "focal": "Otter poking head above dark water looking at unlit reeds."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Tracking the glow.",
+          "dialogue": "Barnaby: 'Follow that faint emerald light behind the willow dam!'",
+          "focal": "Owl pointing wing toward a cozy glow filtering through birch logs."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The secret reader.",
+          "dialogue": "Beaver: 'I'm sorry! I just had two chapters left of my bedtime mystery!'",
+          "focal": "Beaver sitting in lodge with a glass jar of fireflies illuminating an open book."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Shared storytime.",
+          "dialogue": "Oliver: 'Well, scoot over! Start from chapter one!'",
+          "focal": "All three animals listening peacefully to the story together under the soft glow."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-07",
+      "title": "The Pajama Knights: Guardians of the Nursery",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Chapter 1: Defeating the Shadow Creaks",
+      "panelsCount": 5,
+      "image": "web_images/cover_cloud_boat.webp",
+      "style": "Playful comic panels with cozy flannel textures, wooden swords, and warm golden nightlights",
+      "logline": "When nighttime floorboards go 'creak!', Sir Arthur and Lady Claire don their slippers to prove shadows are just friendly coats on pegs.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The nursery is dark. CREAK!",
+          "dialogue": "Arthur: 'Hark! The dreaded Floorboard Ogre awakens!'",
+          "focal": "Two kids in striped pajamas raising wooden spoon swords in alarm."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Approaching the closet.",
+          "dialogue": "Claire: 'Hold the Nightlight of Bravery steady, Arthur!'",
+          "focal": "Beam from turtle-shaped nightlight cutting through bedroom shadows."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The grand reveal.",
+          "dialogue": "Arthur: 'Behold! The monster is... Dad's winter bathrobe hanging on a hook!'",
+          "focal": "Hilarious panel showing fluffy plaid robe casting a dragon-shaped shadow."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Victory sleep.",
+          "dialogue": "Claire: 'Another kingdom saved. Goodnight, brave knight.'",
+          "focal": "Both kids fast asleep under patchwork shields with peaceful smiles."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-08",
+      "title": "Cloud Patrol: The Flying Puppy Chronicles",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Issue 1: The Rainmaker's Compass",
+      "panelsCount": 6,
+      "image": "web_images/trailer_cloud_boat.webp",
+      "style": "Soft pastel watercolor panels with whimsical balloon lettering and cute puppy anatomy",
+      "logline": "Barnaby the golden pup sprouts angel wings at bedtime to help shepherd stray clouds away from the moon.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Cloud Patrol HQ.",
+          "dialogue": "Barnaby: 'Fluffy cloud cluster approaching the moon at 9 o'clock!'",
+          "focal": "Golden retriever puppy with small feathered wings hovering above clouds."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Nudging the cloud.",
+          "dialogue": "Barnaby: 'Woof! Move along, puffy cloud! The stars need to shine!'",
+          "focal": "Puppy gently nudging a sleepy cloud with his wet black nose."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The moon thanks him.",
+          "dialogue": "Moon: 'Thank you, little patrol pup. Here is a bone made of moonbeams.'",
+          "focal": "Smiling moon handing glowing golden biscuit to the happy puppy."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Back in the dog bed.",
+          "dialogue": "Barnaby: 'Zzz... best job in the world... zzz...'",
+          "focal": "Puppy sleeping in cozy wicker basket with back leg gently twitching in a dream."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-09",
+      "title": "Bramble the Hedgehog's Big Night Walk",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Early Reader Panel Series",
+      "panelsCount": 5,
+      "image": "web_images/project_seeds_of_faith.webp",
+      "style": "Gentle sequential comic for beginning readers, limited palette of moss, acorn brown, and starlight amber",
+      "logline": "A little hedgehog takes his nightly stroll through garden beds, greeting snails, smelling sweet honeysuckle, and finding his mossy burrow.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Sun goes down. Time to wake up!",
+          "dialogue": "Bramble: 'Good evening, world!'",
+          "focal": "Tiny hedgehog uncurling from dry leaves, nose sniffing fresh evening air."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Saying hello to friends.",
+          "dialogue": "Bramble: 'Hello, Mr. Snail! Nice shell tonight!'",
+          "focal": "Bramble smiling at a glossy snail gliding across a moist garden stone."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Sweet bedtime snack.",
+          "dialogue": "Bramble: 'Ripe wild strawberries! My favorite!'",
+          "focal": "Bramble happily nibbling a bright red berry under clover leaves."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Curling up for sleep.",
+          "dialogue": "Bramble: 'The moon is high. Time for little hedgehogs to rest.'",
+          "focal": "Cute round hedgehog ball nestled safe inside hollow oak root."
+        }
+      ]
+    },
+    {
+      "id": "com-bed-10",
+      "title": "The Blanket Map: Quest for the Golden Pillow",
+      "category": "Bedtime & Adventures",
+      "categoryLabel": "Bedtime Stories & Adventures",
+      "issue": "Graphic Story Spread",
+      "panelsCount": 5,
+      "image": "web_images/project_little_light.webp",
+      "style": "Detailed map border illustration with central storytelling panel sequences and hand-drawn compass",
+      "logline": "A bedtime quest through the archipelago of Sleepy Islands, guided by the legendary quilted map.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Unfolding the quilted heirloom.",
+          "dialogue": "Captain Theo: 'According to this quilt, the Golden Pillow lies beyond Yawn Canyon.'",
+          "focal": "Boy examining patchwork quilt with stitched islands and embroidered sea monsters."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Crossing Yawn Canyon.",
+          "dialogue": "Theo: '*YAAAWN*... Keep paddling, first mate Bear!'",
+          "focal": "Boy and stuffed bear yawning widely as their wooden slipper boat drifts through purple gorge."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The Island of Feather Down.",
+          "dialogue": "Theo: 'We found it! The softest resting place in all seven seas!'",
+          "focal": "A glowing golden silk pillow resting on a pedestal of cloud puffs."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Slumber achieves.",
+          "dialogue": "Narrator: 'And so the captain dropped anchor in peaceful sleep.'",
+          "focal": "Theo head resting on pillow with arm wrapped around bear, breathing deeply."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-01",
+      "title": "The Clockwork Apprentice & the Brass Fox",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Issue 1: The Gear That Spoke",
+      "panelsCount": 6,
+      "image": "web_images/cover_clockwork_dragon.webp",
+      "style": "Detailed steampunk fairytale watercolor panels with hand-drawn gears and warm sepia inks",
+      "logline": "Young apprentice Felix accidentally breathes life into an intricate brass fox automaton using a fallen meteorite spring.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The clocktower workshop.",
+          "dialogue": "Felix: 'If this escapement wheel fits the escapement lever...'",
+          "focal": "Felix holding tweezers carefully inserting a glowing bronze gear into a metal fox chest."
+        },
+        {
+          "panelNum": 2,
+          "caption": "CLICK! WHIRRR!",
+          "dialogue": "Fox: '*YAP!* (Cogs spin with golden sparks)'",
+          "focal": "Mechanical fox eyes ignite with warm emerald glass glow; brass tail swishes."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The chase!",
+          "dialogue": "Felix: 'Wait! Don't jump out the cathedral clockface!'",
+          "focal": "Dynamic action panel: brass fox leaping across wooden clocktower beams with Felix in pursuit."
+        },
+        {
+          "panelNum": 4,
+          "caption": "A new bond.",
+          "dialogue": "Felix: 'You're not just gears, are you? You have a heart of your own.'",
+          "focal": "Fox nuzzling Felix's outstretched hand with gentle gear hum."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-02",
+      "title": "Dragon Whisperers of the Mist Valley",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Chapter 1: The Hatchling in the Moss",
+      "panelsCount": 5,
+      "image": "web_images/project_girl_dragons.webp",
+      "style": "Lush epic fantasy panels with sweeping watercolor landscape vistas and expressive creature designs",
+      "logline": "A mountain shepherd girl discovers an orphaned cloud-drake egg hatching among blue alpine moss.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "High above the tree line.",
+          "dialogue": "Kira: 'That's no ordinary geode... It's warm to the touch!'",
+          "focal": "Kira kneeling beside an iridescent sapphire egg resting in blue alpine lichen."
+        },
+        {
+          "panelNum": 2,
+          "caption": "CRACK!",
+          "dialogue": "Kira: 'It's hatching! Gently now...'",
+          "focal": "Close-up on egg shell breaking open to reveal tiny horned snout and sneezing smoke."
+        },
+        {
+          "panelNum": 3,
+          "caption": "First flight.",
+          "dialogue": "Hatchling: '*CHIRP!*' (Flaps tiny winglets and hovers two inches high)",
+          "focal": "Adorable baby dragon hovering over Kira's palm with proud grin."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The vow.",
+          "dialogue": "Kira: 'I will protect you until your wings can touch the clouds.'",
+          "focal": "Heroic silhouette panel of girl and baby dragon against setting alpine sun."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-03",
+      "title": "The Sprite of Lantern Oak",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Chapter 1: The Stolen Forest Spark",
+      "panelsCount": 5,
+      "image": "web_images/gallery_fairytale_fantasy.webp",
+      "style": "Luminous enchanted forest panels with jewel-toned watercolors and glowing fungal accents",
+      "logline": "When the great lantern that keeps the forest safe flickers dim, young sprite Pip must journey to the Sun Well.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The Grandfather Oak is dimming.",
+          "dialogue": "Elder Sprite: 'Without the lantern's spark, the Shadow Brambles will creep into our glade.'",
+          "focal": "Ancient oak with flickering glass lantern hanging from central branch."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Pip accepts the quest.",
+          "dialogue": "Pip: 'I may be the smallest sprite, but my wings are fast!'",
+          "focal": "Determined little boy sprite donning acorn helmet and strapping on dewdrops canteen."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Over the mushroom gorge.",
+          "dialogue": "Pip: 'Whoa! Hold on to your antennae!'",
+          "focal": "Pip gliding on the back of a friendly monarch butterfly over glowing toadstool canyon."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The Sun Well reached.",
+          "dialogue": "Pip: 'Behold! The pure liquid starlight!'",
+          "focal": "Pip dipping crystal vial into radiant pool of bubbling golden liquid."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-04",
+      "title": "The Tiny Knight and the Thimble Sword",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Issue 1: The Toad of Bramble Gate",
+      "panelsCount": 6,
+      "image": "web_images/spreads/spread_fairytale.jpg",
+      "style": "Charming macro fantasy comic panels showing mouse-scale adventures among roots, flowers, and pebbles",
+      "logline": "Sir Barnaby of the Acorn Guard defends the fairy queen's clover patch from an unruly garden toad.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Inspection of the guard.",
+          "dialogue": "Sir Barnaby: 'Armor polished, needle lance sharpened, walnut shield ready!'",
+          "focal": "Tiny heroic mouse knight adjusting shiny silver sewing thimble helmet."
+        },
+        {
+          "panelNum": 2,
+          "caption": "A giant approaches!",
+          "dialogue": "Guard: 'CROAAAK! Giant warty beast breaching the southern dandelion wall!'",
+          "focal": "Enormous mottled garden toad looming over tiny clover gate."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The clever tactic.",
+          "dialogue": "Sir Barnaby: 'No weapons needed! Present the juiciest fat garden beetle!'",
+          "focal": "Barnaby rolling a shiny sweet beetle on a leaf toward the toad."
+        },
+        {
+          "panelNum": 4,
+          "caption": "A peaceful truce.",
+          "dialogue": "Toad: '*GULP!* (Friendly wink)'",
+          "focal": "Toad happily munching beetle, letting the tiny knights pet his bumpy chin."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-05",
+      "title": "Chronicles of the Silver Gryphon",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Episode 1: Flight Over the Glacier",
+      "panelsCount": 5,
+      "image": "web_images/project_kingdom_woods.webp",
+      "style": "Sweeping cinematic panels with airy watercolor washes, ice crystals, and soaring flight perspectives",
+      "logline": "Cadet Rowan trains with his juvenile gryphon companion, learning that true leadership comes from trust, not reins.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The Eyrie of Highreach.",
+          "dialogue": "Rowan: 'Easy, Silverwing. The updraft over the glacier is strong today.'",
+          "focal": "Boy gently stroking the silver feathers of a magnificent half-eagle, half-lion beast."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Takeoff!",
+          "dialogue": "Rowan: 'FOR THE REALM!'",
+          "focal": "Dynamic downward camera angle as gryphon leaps from stone cliff into blinding white sky."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Caught in the crosswind.",
+          "dialogue": "Rowan: 'Drop the reins! Fly as one mind!'",
+          "focal": "Rowan letting go of leather straps, hugging gryphon's neck as wings catch thermal current."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Gliding through clouds.",
+          "dialogue": "Rowan: 'We did it! We cleared the Frost Peak!'",
+          "focal": "Breathtaking wide panel of gryphon soaring smoothly above cloud sea toward sunlit spires."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-06",
+      "title": "The Alchemist\u2019s Garden: Graphic Novel Series",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Volume 1: The Seed of Sunlight",
+      "panelsCount": 6,
+      "image": "web_images/project_flying_book.webp",
+      "style": "Botanical fantasy panels with hand-illustrated plant cross-sections, glowing vials, and warm cottage charm",
+      "logline": "Young botanist Clara tends to magical plants that produce honey-glow elixirs and whispering tea leaves.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The greenhouse at midnight.",
+          "dialogue": "Clara: 'Add three drops of dew from a morning bluebell...'",
+          "focal": "Clara in leather apron carefully measuring glowing blue liquid into brass flask."
+        },
+        {
+          "panelNum": 2,
+          "caption": "The sprout blooms!",
+          "dialogue": "Clara: 'It worked! The Sun-Orchid is opening!'",
+          "focal": "Golden flower petals unfurl, emitting warm radiant light that illuminates the glass dome."
+        },
+        {
+          "panelNum": 3,
+          "caption": "A visitor at the window.",
+          "dialogue": "Moon Fairy: 'The scent of your elixir reached the whispering woods, Clara.'",
+          "focal": "Delicate winged fairy tapping on the condensation-covered glass pane."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Sharing the harvest.",
+          "dialogue": "Clara: 'A vial of warmth for the winter fairies. As promised.'",
+          "focal": "Clara handing crystal bottle with glowing golden stopper to the grateful fairy."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-07",
+      "title": "The Sea Sprite and the Coral Castle",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Chapter 1: The Tide of Whispers",
+      "panelsCount": 5,
+      "image": "web_images/project_mermaids_secret.webp",
+      "style": "Rich aquatic fantasy panels with glowing bioluminescence, flowing seaweed kelp, and shell architecture",
+      "logline": "Tula the sea sprite helps rebuild the shattered reef palace after a wandering kraken sneezes.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The Great Barrier Reef.",
+          "dialogue": "Tula: 'Look at the western archway! The kraken's sneeze knocked over the pearl pillar!'",
+          "focal": "Sprite with dolphin tail surveying tumbled coral columns under turquoise waves."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Calling the builders.",
+          "dialogue": "Tula: 'Hermit crabs, parrotfish! To your stations!'",
+          "focal": "Tula blowing into a conch shell, summoning schools of helpful sea creatures."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Rebuilding with magic.",
+          "dialogue": "Crab Foreman: 'Mortar made of star-sponge is setting nicely, ma'am!'",
+          "focal": "Busy humorous panel of crabs stacking mother-of-pearl tiles with crab claws."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The palace restored.",
+          "dialogue": "Sea Queen: 'The castle shines brighter than before! Thank you, little sprite.'",
+          "focal": "Splendid illuminated coral palace glowing with pink, emerald, and gold sea anemones."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-08",
+      "title": "The Wizard's Attic: Early Reader Fantasy Panels",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Issue 1: The Wand That Sneezed",
+      "panelsCount": 5,
+      "image": "web_images/about_ephraim_studio.webp",
+      "style": "Fun comic panels for young readers with bright watercolor fills, comic sound FX, and slapstick charm",
+      "logline": "Archie the wizard's apprentice tries a simple feather-levitating charm, but his wand has allergies and turns everything into purple balloons.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Wizard Barnaby is away.",
+          "dialogue": "Archie: 'Just one teeny tiny spell while the master is buying elderberries...' ",
+          "focal": "Boy in oversized starry wizard hat pointing crooked wooden wand at a goose feather."
+        },
+        {
+          "panelNum": 2,
+          "caption": "A sudden tickle.",
+          "dialogue": "Wand: '*AH-CHOO!* (Rainbow sparks erupt)'",
+          "focal": "Huge comic explosion of colorful sparks and floating violet bubbles."
+        },
+        {
+          "panelNum": 3,
+          "caption": "Balloon invasion!",
+          "dialogue": "Archie: 'The teacups are floating! The spellbooks are floating! THE CAT IS FLOATING!'",
+          "focal": "Chaotic funny panel with wizard cat clinging to a floating spellbook balloon."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The Master returns.",
+          "dialogue": "Master Barnaby: 'Archie... why is my armchair on the ceiling?'",
+          "focal": "Archie grinning sheepishly while hanging upside down from a velvet balloon chair."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-09",
+      "title": "The Rune Carver's Daughter",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Chapter 1: The Stones of Starlight",
+      "panelsCount": 5,
+      "image": "web_images/project_last_star_keeper.webp",
+      "style": "Nordic folk fantasy sequential art with stone textures, glowing runic glyphs, and pine needle borders",
+      "logline": "Ingrid discovers that the ancient stones her grandfather carved can speak when touched by the northern lights.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "The rune yard in winter.",
+          "dialogue": "Ingrid: 'Grandfather's chisel has rested for forty winters...'",
+          "focal": "Girl running her finger along weathered Nordic runes carved into granite monoliths."
+        },
+        {
+          "panelNum": 2,
+          "caption": "The sky ignites.",
+          "dialogue": "Ingrid: 'Look! The aurora borealis is touching the ridge!'",
+          "focal": "Vibrant ribbons of green and violet northern lights dancing in the starry night sky."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The stone speaks.",
+          "dialogue": "Stone Voice: 'The keeper has returned. What riddle do you seek, child of the North?'",
+          "focal": "Runic glyphs glowing with warm cyan luminescence on the ancient stone face."
+        },
+        {
+          "panelNum": 4,
+          "caption": "The first secret.",
+          "dialogue": "Ingrid: 'Tell me the forgotten story of how the sun learned to rise.'",
+          "focal": "Ingrid sitting cross-legged in the snow listening in awe as the stone hums with light."
+        }
+      ]
+    },
+    {
+      "id": "com-fai-10",
+      "title": "The Clockwork Castle Siege",
+      "category": "Fairytales & Fantasy",
+      "categoryLabel": "Fairytales & Fantasy Stories",
+      "issue": "Sequential Action Graphic Novel Spread",
+      "panelsCount": 6,
+      "image": "web_images/cover_clockwork_dragon.webp",
+      "style": "Epic sequential graphic novel layout with dynamic perspective lines and rich watercolor textures",
+      "logline": "When rust monsters invade the fortress of gears, the clockwork guards deploy steam catapults and oil lanterns.",
+      "samplePanels": [
+        {
+          "panelNum": 1,
+          "caption": "Alarm bells toll across the brass ramparts.",
+          "dialogue": "Captain Cog: 'Rust crawlers spotted ascending the outer gear moat!'",
+          "focal": "Panoramic battle panel: iron fortress on cliffs with swarms of glowing rust beetles climbing."
+        },
+        {
+          "panelNum": 2,
+          "caption": "Deploying defenses.",
+          "dialogue": "Engineer: 'Charge steam pressure to maximum! Release the mineral oil slick!'",
+          "focal": "Engineers pulling copper levers; massive pipes spewing protective lubricating mist."
+        },
+        {
+          "panelNum": 3,
+          "caption": "The slip and slide!",
+          "dialogue": "Cog: 'Hah! Look at them slide down the gears like greasy pancakes!'",
+          "focal": "Humorous action shot of beetles sliding harmlessly off polished gears into safety nets."
+        },
+        {
+          "panelNum": 4,
+          "caption": "Victory for the gears.",
+          "dialogue": "Cog: 'The Clockwork Citadel stands undefeated! Oiler boys, double rations tonight!'",
+          "focal": "Mechanical soldiers cheering with raised wrenches as steam whistles blow triumphantly."
+        }
+      ]
+    }
+  ]
+}

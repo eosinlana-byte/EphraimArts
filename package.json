@@ -1,0 +1,23 @@
+{
+  "name": "ephraimarts",
+  "version": "1.0.0",
+  "description": "EphraimArts • Whimsical Watercolor Children's Stories & Storybook Studio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_100_projects_verification.js"
+  },
+  "keywords": [
+    "storybook",
+    "watercolor",
+    "portfolio",
+    "childrens-books",
+    "graphic-novels",
+    "illustration"
+  ],
+  "author": "EphraimArts",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

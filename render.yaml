@@ -1,0 +1,15 @@
+services:
+  # Option 1: Fast Node.js Web Service with dynamic image serving
+  - type: web
+    name: ephraimarts
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install --production
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+    autoDeploy: true
